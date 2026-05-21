@@ -3,6 +3,10 @@
 An end-to-end data engineering and analytics pipeline built for the hackathon #2. This project ingests, normalizes, and analyzes a massive relational LinkedIn Job Postings dataset (2023 - 2024) containing over half a million data points across 11 interconnected tables.
 
 ---
+## Project Demo Video
+Watch the pipeline walkthrough and analytical presentation here:
+👉 **[Watch the TalkToData Project Demonstration on Google Drive](https://drive.google.com/file/d/1u9Dnu3n2e4Du_atdaKJveJFNvyzFZb_0/view?usp=sharing)**
+---
 
 ## 👥 Team Members
 * **Almendra Apolaya** 
